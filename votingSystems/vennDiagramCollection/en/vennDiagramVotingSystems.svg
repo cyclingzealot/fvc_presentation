@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="vennDiagramVotingSystems.svg"
    inkscape:export-filename="/home/jlam/Dropbox/fvc/presentation/votingSystems/vennDiagramCollection/en/vennDiagramVotingSystems.png"
    inkscape:export-xdpi="200.02"
@@ -56,15 +56,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="736.45626"
-     inkscape:cy="427.64052"
+     inkscape:cx="649.5099"
+     inkscape:cy="541.92623"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="1985"
-     inkscape:window-y="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true" />
@@ -76,7 +76,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,25 +86,25 @@
      id="layer1"
      transform="translate(0,-308.2677)">
     <path
-       transform="matrix(1.1151437,0,0,0.99973413,-8.6221836,120.92433)"
+       transform="matrix(1.1150957,0,0,1.0811229,-8.5983607,83.188254)"
        sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.39823008;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.3982301;stroke-dasharray:none"
        id="path3870-5"
        sodipodi:cx="495.98489"
        sodipodi:cy="446.09949"
        sodipodi:rx="438.40622"
        sodipodi:ry="105.05586"
-       d="m 934.39111,446.09949 c 0,58.02075 -196.28115,105.05586 -438.40622,105.05586 -242.12507,0 -438.406216,-47.03511 -438.406216,-105.05586 0,-58.02075 196.281146,-105.05587 438.406216,-105.05587 242.12507,0 438.40622,47.03512 438.40622,105.05587 z" />
+       d="m 934.39111,446.09949 a 438.40622,105.05586 0 1 1 -876.812436,0 438.40622,105.05586 0 1 1 876.812436,0 z" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.39823008;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.3982301;stroke-dasharray:none"
        id="path3870"
        sodipodi:cx="495.98489"
        sodipodi:cy="446.09949"
        sodipodi:rx="438.40622"
        sodipodi:ry="105.05586"
-       d="m 934.39111,446.09949 c 0,58.02075 -196.28115,105.05586 -438.40622,105.05586 -242.12507,0 -438.406216,-47.03511 -438.406216,-105.05586 0,-58.02075 196.281146,-105.05587 438.406216,-105.05587 242.12507,0 438.40622,47.03512 438.40622,105.05587 z"
-       transform="matrix(1.1209009,0,0,0.9997212,-6.932026,266.39207)" />
+       d="m 934.39111,446.09949 a 438.40622,105.05586 0 1 1 -876.812436,0 438.40622,105.05586 0 1 1 876.812436,0 z"
+       transform="matrix(1.1207782,0,0,1.2133809,-6.8711701,148.57857)" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:1.11915290000000001;stroke-opacity:1"
        id="rect2989"
@@ -129,7 +129,7 @@
        xml:space="preserve"
        id="flowRoot3779-5"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura Semi-Bold"
-       transform="translate(-190.35998,627.72159)"><flowRegion
+       transform="translate(-201.07427,603.43588)"><flowRegion
          id="flowRegion3781-3"><rect
            id="rect3783-1"
            width="114.14721"
@@ -203,12 +203,12 @@
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
        d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
-       transform="translate(170.91206,260.67014)" />
+       transform="translate(172.91206,222.67014)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(98.02291,245.46676)"><flowRegion
+       transform="translate(100.02291,207.46676)"><flowRegion
          id="flowRegion4037"><rect
            id="rect4039"
            width="62.629482"
@@ -262,7 +262,7 @@
            width="559.58069"
            id="rect3084" /></flowRegion><flowPara
          id="flowPara3086" /></flowRoot>    <g
-       transform="translate(221.49083,-130.51069)"
+       transform="translate(221.49083,-170.51069)"
        id="g4043-3-0"
        style="fill:#000000;stroke:none">
       <path
@@ -273,7 +273,7 @@
          sodipodi:cy="362.7619"
          sodipodi:cx="525.78442"
          id="path4025-2-5"
-         style="fill:#000000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#000000;stroke:none"
          sodipodi:type="arc" />
       <flowRoot
          transform="translate(0,300.2677)"
@@ -287,9 +287,9 @@
              width="169.70564"
              id="rect4039-9-6"
              style="fill:#000000;stroke:none" /></flowRegion><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
            id="flowPara4041-5-5">Single Transferable Vote (STV)</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
            id="flowPara4163">@ 5+ seats / district</flowPara></flowRoot>    </g>
     <g
        transform="translate(-230.56364,-111.246)"
@@ -361,61 +361,61 @@
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none;fill-opacity:1">Single Member Plurality (SMP) </flowPara><flowPara
          id="flowPara4211"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none;fill-opacity:1">aka First Past The Post</flowPara></flowRoot>    <g
-       transform="translate(294.59215,10.024345)"
+       transform="translate(272.59215,22.024345)"
        id="g4248"
        style="fill:#000000;stroke:none">
       <path
-         transform="translate(-20.231534,311.74706)"
-         d="m 534.37072,362.7619 c 0,4.74208 -3.84422,8.5863 -8.5863,8.5863 -4.74208,0 -8.58629,-3.84422 -8.58629,-8.5863 0,-4.74208 3.84421,-8.5863 8.58629,-8.5863 4.74208,0 8.5863,3.84422 8.5863,8.5863 z"
+         transform="translate(-20.231534,301.74706)"
+         d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
          sodipodi:ry="8.586297"
          sodipodi:rx="8.586297"
          sodipodi:cy="362.7619"
          sodipodi:cx="525.78442"
          id="path4025-2-5-6-4"
-         style="fill:#000000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#000000;stroke:none"
          sodipodi:type="arc" />
       <flowRoot
-         transform="translate(-9.1198537,292.63538)"
+         transform="translate(-9.1198537,282.63538)"
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
          id="flowRoot4035-4-6-3-6"
          xml:space="preserve"><flowRegion
            id="flowRegion4037-2-6-1-3"><rect
              y="368.31775"
              x="526.28949"
-             height="75.761452"
-             width="169.70564"
+             height="19.332872"
+             width="233.27705"
              id="rect4039-9-6-0-2"
              style="fill:#000000;stroke:none" /></flowRegion><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
            id="flowPara4211-3">Law Commission 2004 model </flowPara><flowPara
            id="flowPara4255"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none">(LC2004)</flowPara></flowRoot>    </g>
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">(LC2004)</flowPara></flowRoot>    </g>
     <path
        sodipodi:type="arc"
-       style="fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       style="fill:#4d4d4d;stroke:none"
        id="path4025-2-5-6-4-2"
        sodipodi:cx="525.78442"
        sodipodi:cy="362.7619"
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
-       d="m 534.37072,362.7619 c 0,4.74208 -3.84422,8.5863 -8.5863,8.5863 -4.74208,0 -8.58629,-3.84422 -8.58629,-8.5863 0,-4.74208 3.84421,-8.5863 8.58629,-8.5863 4.74208,0 8.5863,3.84422 8.5863,8.5863 z"
-       transform="translate(495.05048,364.46688)" />
+       d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
+       transform="translate(485.81251,298.35928)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035-4-6-3-6-5"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(385.20368,350.18103)"><flowRegion
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
+       transform="translate(375.96571,284.07343)"><flowRegion
          id="flowRegion4037-2-6-1-3-6"><rect
            id="rect4039-9-6-0-2-0"
            width="169.70564"
            height="75.761452"
            x="526.28949"
            y="368.31775"
-           style="fill:#ffffff;stroke:none" /></flowRegion><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;stroke:none"
+           style="fill:#4d4d4d;stroke:none" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="flowPara4255-5">Netherlands</flowPara></flowRoot>    <path
        sodipodi:type="arc"
-       style="fill:#ffffff;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+       style="fill:#4d4d4d;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
        id="path4025-2-5-6-4-2-2"
        sodipodi:cx="525.78442"
        sodipodi:cy="362.7619"
@@ -426,31 +426,31 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035-4-6-3-6-5-3"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
        transform="translate(447.66451,411.16048)"><flowRegion
          id="flowRegion4037-2-6-1-3-6-9"><rect
-           style="fill:#ffffff;stroke:none"
+           style="fill:#4d4d4d;stroke:none"
            id="rect4039-9-6-0-2-0-6"
            width="169.70564"
            height="75.761452"
            x="526.28949"
            y="368.31775" /></flowRegion><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;stroke:none"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#4d4d4d;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;stroke:none"
          id="flowPara4255-5-7">Israël</flowPara></flowRoot>    <path
        sodipodi:type="arc"
-       style="fill:#000000;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#000000;stroke:none"
        id="path4025-2-5-6-4-7"
        sodipodi:cx="525.78442"
        sodipodi:cy="362.7619"
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
-       d="m 534.37072,362.7619 c 0,4.74208 -3.84422,8.5863 -8.5863,8.5863 -4.74208,0 -8.58629,-3.84422 -8.58629,-8.5863 0,-4.74208 3.84421,-8.5863 8.58629,-8.5863 4.74208,0 8.5863,3.84422 8.5863,8.5863 z"
-       transform="translate(403.42448,463.43809)" />
+       d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
+       transform="translate(275.42448,465.43809)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035-4-6-3-6-7"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(223.82188,449.32641)"><flowRegion
+       transform="translate(95.82188,451.32641)"><flowRegion
          id="flowRegion4037-2-6-1-3-63"><rect
            id="rect4039-9-6-0-2-08"
            width="169.70564"
@@ -458,13 +458,13 @@
            x="526.28949"
            y="368.31775"
            style="fill:#000000;stroke:none" /></flowRegion><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="flowPara4255-4">Ontario 2007 </flowPara><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="flowPara4432">(On2007)</flowPara><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="flowPara4434">- has closed list, </flowPara><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;fill:#000000;stroke:none"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
          id="flowPara3078">   not open</flowPara></flowRoot>    <image
        y="969.24036"
        x="837.43481"
@@ -534,16 +534,16 @@
        xml:space="preserve"
        id="flowRoot4035-4-6-3-6-5-2"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(32.67094,281.44152)"><flowRegion
+       transform="translate(26.67094,281.44152)"><flowRegion
          id="flowRegion4037-2-6-1-3-6-2"><rect
            style="text-align:end;text-anchor:end;fill:#000000;stroke:none"
            id="rect4039-9-6-0-2-0-9"
-           width="169.70564"
-           height="75.761452"
+           width="195.42479"
+           height="43.949249"
            x="526.28949"
            y="368.31775" /></flowRegion><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-         id="flowPara4255-5-1">Jenkins-Day** MMP</flowPara></flowRoot>    <path
+         id="flowPara4255-5-1">Jenkins-inspired MMP</flowPara></flowRoot>    <path
        sodipodi:type="arc"
        style="fill:#000000;stroke:none"
        id="path4025-2-5-6-4-2-7-1"
@@ -551,13 +551,13 @@
        sodipodi:cy="362.7619"
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
-       d="m 534.37072,362.7619 c 0,4.74208 -3.84422,8.5863 -8.5863,8.5863 -4.74208,0 -8.58629,-3.84422 -8.58629,-8.5863 0,-4.74208 3.84421,-8.5863 8.58629,-8.5863 4.74208,0 8.5863,3.84422 8.5863,8.5863 z"
-       transform="translate(443.60897,375.63829)" />
+       d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
+       transform="translate(383.60897,387.63829)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035-4-6-3-6-5-2-0"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(262.65583,363.59851)"><flowRegion
+       transform="translate(202.65583,375.59851)"><flowRegion
          id="flowRegion4037-2-6-1-3-6-2-1"><rect
            style="text-align:end;text-anchor:end;fill:#000000;stroke:none"
            id="rect4039-9-6-0-2-0-9-8"
@@ -575,19 +575,42 @@
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
        d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
-       transform="translate(247.07271,277.17171)" />
+       transform="translate(247.07271,255.17171)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4035-0"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
-       transform="translate(192.20248,262.88586)"><flowRegion
+       transform="translate(35.647361,241.17799)"><flowRegion
          id="flowRegion4037-3"><rect
            id="rect4039-5"
-           width="80.486595"
-           height="18.233521"
+           width="200.4866"
+           height="17.519247"
            x="526.28949"
            y="368.31775"
            style="fill:#000000;stroke:none" /></flowRegion><flowPara
          id="flowPara4041-6"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">STV+</flowPara></flowRoot>  </g>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Rural-Urban Proportional</flowPara></flowRoot>    <path
+       sodipodi:type="arc"
+       style="fill:#000000;stroke:none"
+       id="path4025-8-3"
+       sodipodi:cx="525.78442"
+       sodipodi:cy="362.7619"
+       sodipodi:rx="8.586297"
+       sodipodi:ry="8.586297"
+       d="m 534.37072,362.7619 a 8.586297,8.586297 0 1 1 -17.17259,0 8.586297,8.586297 0 1 1 17.17259,0 z"
+       transform="translate(432.73673,353.04783)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4035-0-6"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Jura;-inkscape-font-specification:Jura"
+       transform="translate(198.64775,337.35036)"><flowRegion
+         id="flowRegion4037-3-7"><rect
+           id="rect4039-5-5"
+           width="223.34378"
+           height="21.090694"
+           x="526.28949"
+           y="368.31775"
+           style="fill:#000000;stroke:none" /></flowRegion><flowPara
+         id="flowPara4041-6-3"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Single Member Proportional</flowPara></flowRoot>  </g>
 </svg>
